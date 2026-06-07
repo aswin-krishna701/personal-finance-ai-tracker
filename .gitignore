@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+
+.DS_Store
+Thumbs.db
+
+*.log
+
+data/raw/
+outputs/cleaned_data/
+data/processed/
+outputs/reports/
+dashboard/app_backup.py

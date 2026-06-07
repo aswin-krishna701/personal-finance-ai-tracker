@@ -1,0 +1,6 @@
+date,description,amount,type,category,payment_method,merchant,notes
+2024-12-01,Salary credited,45000,Income,Salary,Bank Transfer,Company,Monthly salary
+2024-12-02,Zomato food order,350,Expense,Food,UPI,Zomato,Dinner
+2024-12-03,Uber ride,220,Expense,Travel,Card,Uber,College travel
+2024-12-04,Amazon shopping,1200,Expense,Shopping,Card,Amazon,Headphones
+2024-12-05,Netflix subscription,199,Expense,Subscriptions,Card,Netflix,Monthly plan

@@ -1,0 +1,201 @@
+transaction_id,date,type,category,description,amount,payment_method,need_or_want,merchant,month,year,day_name
+1,2020-01-02,Expense,Food,Score each.,1485.69,Unknown,Need,Unknown,January,2020,Thursday
+2,2020-01-02,Expense,Bills,Quality throughout.,1475.58,Unknown,Need,Unknown,January,2020,Thursday
+3,2020-01-04,Expense,Bills,Instead ahead despite measure ago.,1185.08,Unknown,Need,Unknown,January,2020,Saturday
+4,2020-01-05,Income,Investment,Information last everything thank serve.,2291.0,Unknown,Income,Unknown,January,2020,Sunday
+5,2020-01-13,Expense,Food,Future choice whatever from.,1126.88,Unknown,Need,Unknown,January,2020,Monday
+6,2020-01-14,Expense,Shopping,Benefit suggest page southern.,448.68,Unknown,Want,Unknown,January,2020,Tuesday
+7,2020-01-18,Expense,Food,By two bad fall pick.,1520.03,Unknown,Need,Unknown,January,2020,Saturday
+8,2020-01-19,Income,Income,Court attorney product significant world.,3287.0,Unknown,Income,Unknown,January,2020,Sunday
+9,2020-01-21,Expense,Entertainment,Herself law.,1914.85,Unknown,Want,Unknown,January,2020,Tuesday
+10,2020-01-25,Expense,Bills,Have decide environment.,766.06,Unknown,Need,Unknown,January,2020,Saturday
+11,2020-01-25,Expense,Health,Play move each left establish.,1211.41,Unknown,Need,Unknown,January,2020,Saturday
+12,2020-01-26,Expense,Others,Range successful simply.,1077.09,Unknown,Other,Unknown,January,2020,Sunday
+13,2020-01-29,Expense,Shopping,Source husband.,166.81,Unknown,Want,Unknown,January,2020,Wednesday
+14,2020-01-30,Expense,Health,Tree note responsibility.,1158.93,Unknown,Need,Unknown,January,2020,Thursday
+15,2020-01-31,Expense,Food,How trip learn enter.,1325.91,Unknown,Need,Unknown,January,2020,Friday
+16,2020-01-31,Expense,Bills,Much section investment on gun.,1712.08,Unknown,Need,Unknown,January,2020,Friday
+17,2020-01-31,Expense,Shopping,Management sense technology check civil.,563.17,Unknown,Want,Unknown,January,2020,Friday
+18,2020-02-02,Expense,Health,As high you more wife.,333.68,Unknown,Need,Unknown,February,2020,Sunday
+19,2020-02-04,Expense,Travel,Race mr.,1406.62,Unknown,Need,Unknown,February,2020,Tuesday
+20,2020-02-05,Expense,Bills,Born itself law west.,1222.17,Unknown,Need,Unknown,February,2020,Wednesday
+21,2020-02-05,Income,Investment,Seven medical blood personal.,1838.0,Unknown,Income,Unknown,February,2020,Wednesday
+22,2020-02-07,Expense,Travel,Current hear claim well two.,1979.15,Unknown,Need,Unknown,February,2020,Friday
+23,2020-02-07,Expense,Entertainment,Food affect upon these story.,1372.38,Unknown,Want,Unknown,February,2020,Friday
+25,2020-02-08,Expense,Food,Around there water.,465.81,Unknown,Need,Unknown,February,2020,Saturday
+24,2020-02-08,Income,Income,Staff within mouth call.,3786.0,Unknown,Income,Unknown,February,2020,Saturday
+26,2020-02-09,Expense,Entertainment,Close month parent who up.,1827.14,Unknown,Want,Unknown,February,2020,Sunday
+27,2020-02-11,Expense,Health,Human public health.,433.13,Unknown,Need,Unknown,February,2020,Tuesday
+28,2020-02-13,Expense,Others,Building different full open.,294.31,Unknown,Other,Unknown,February,2020,Thursday
+29,2020-02-15,Income,Income,Detail audience piece director town.,4009.0,Unknown,Income,Unknown,February,2020,Saturday
+30,2020-02-16,Expense,Shopping,Method everything.,730.37,Unknown,Want,Unknown,February,2020,Sunday
+31,2020-02-16,Expense,Bills,Much rich think.,1023.96,Unknown,Need,Unknown,February,2020,Sunday
+32,2020-02-18,Income,Investment,Drug list imagine behind.,1398.0,Unknown,Income,Unknown,February,2020,Tuesday
+33,2020-02-19,Income,Investment,Interest level rock pull.,3958.0,Unknown,Income,Unknown,February,2020,Wednesday
+34,2020-02-20,Expense,Shopping,I fund.,769.42,Unknown,Want,Unknown,February,2020,Thursday
+35,2020-02-26,Expense,Travel,Court movie cell.,1942.45,Unknown,Need,Unknown,February,2020,Wednesday
+36,2020-02-27,Expense,Food,Leg themselves away.,1363.76,Unknown,Need,Unknown,February,2020,Thursday
+37,2020-02-28,Income,Income,Anything yourself.,3286.0,Unknown,Income,Unknown,February,2020,Friday
+38,2020-02-28,Income,Income,Unit support.,1795.0,Unknown,Income,Unknown,February,2020,Friday
+39,2020-02-29,Expense,Travel,Magazine degree husband around.,1944.06,Unknown,Need,Unknown,February,2020,Saturday
+40,2020-03-03,Expense,Bills,World enter.,1742.33,Unknown,Need,Unknown,March,2020,Tuesday
+41,2020-03-04,Expense,Entertainment,Institution whatever yet.,314.15,Unknown,Want,Unknown,March,2020,Wednesday
+42,2020-03-04,Expense,Food,Choice father why often.,1201.9,Unknown,Need,Unknown,March,2020,Wednesday
+43,2020-03-09,Expense,Bills,Security arm.,1858.91,Unknown,Need,Unknown,March,2020,Monday
+44,2020-03-09,Expense,Travel,Me system church whether.,486.51,Unknown,Need,Unknown,March,2020,Monday
+45,2020-03-11,Expense,Bills,Attention attack technology.,180.45,Unknown,Need,Unknown,March,2020,Wednesday
+46,2020-03-11,Expense,Bills,Walk now often.,1956.19,Unknown,Need,Unknown,March,2020,Wednesday
+48,2020-03-12,Expense,Bills,Bank price north first end.,265.5,Unknown,Need,Unknown,March,2020,Thursday
+47,2020-03-12,Expense,Bills,Enter capital population.,537.46,Unknown,Need,Unknown,March,2020,Thursday
+49,2020-03-14,Expense,Shopping,Upon very act perform.,1929.08,Unknown,Want,Unknown,March,2020,Saturday
+50,2020-03-15,Expense,Entertainment,Available defense.,1428.77,Unknown,Want,Unknown,March,2020,Sunday
+51,2020-03-18,Expense,Health,Value thing these.,881.82,Unknown,Need,Unknown,March,2020,Wednesday
+52,2020-03-21,Expense,Bills,Citizen street region.,503.33,Unknown,Need,Unknown,March,2020,Saturday
+53,2020-03-23,Income,Investment,Property never.,2385.0,Unknown,Income,Unknown,March,2020,Monday
+54,2020-03-23,Expense,Food,Enough threat score.,151.28,Unknown,Need,Unknown,March,2020,Monday
+55,2020-03-24,Expense,Entertainment,Example decision garden.,144.13,Unknown,Want,Unknown,March,2020,Tuesday
+56,2020-03-28,Income,Income,Major town suffer begin.,1080.0,Unknown,Income,Unknown,March,2020,Saturday
+57,2020-04-01,Expense,Travel,Analysis four capital.,1341.27,Unknown,Need,Unknown,April,2020,Wednesday
+58,2020-04-05,Expense,Bills,Scientist necessary into.,1449.47,Unknown,Need,Unknown,April,2020,Sunday
+60,2020-04-06,Expense,Others,Away third.,493.56,Unknown,Other,Unknown,April,2020,Monday
+59,2020-04-06,Expense,Shopping,Along hard need involve among.,388.92,Unknown,Want,Unknown,April,2020,Monday
+61,2020-04-10,Income,Income,Together decide.,3402.0,Unknown,Income,Unknown,April,2020,Friday
+62,2020-04-17,Expense,Others,Government nice.,1729.04,Unknown,Other,Unknown,April,2020,Friday
+63,2020-04-17,Income,Investment,See understand door class son.,996.0,Unknown,Income,Unknown,April,2020,Friday
+64,2020-04-18,Expense,Health,Agent say forward us.,1603.18,Unknown,Need,Unknown,April,2020,Saturday
+65,2020-04-22,Income,Investment,City red him.,2058.0,Unknown,Income,Unknown,April,2020,Wednesday
+66,2020-04-23,Expense,Bills,Develop staff least figure.,849.54,Unknown,Need,Unknown,April,2020,Thursday
+67,2020-04-25,Expense,Entertainment,Age cover foreign.,1750.23,Unknown,Want,Unknown,April,2020,Saturday
+68,2020-04-26,Income,Investment,Go meeting quickly.,914.0,Unknown,Income,Unknown,April,2020,Sunday
+69,2020-04-26,Expense,Food,Voice boy wife condition.,1938.3,Unknown,Need,Unknown,April,2020,Sunday
+71,2020-04-27,Expense,Entertainment,Board its.,340.96,Unknown,Want,Unknown,April,2020,Monday
+70,2020-04-27,Expense,Entertainment,Paper memory history office.,1730.65,Unknown,Want,Unknown,April,2020,Monday
+72,2020-04-29,Expense,Bills,Remember ability.,764.16,Unknown,Need,Unknown,April,2020,Wednesday
+73,2020-04-30,Expense,Travel,Hair attorney professional.,1853.77,Unknown,Need,Unknown,April,2020,Thursday
+74,2020-05-01,Expense,Travel,Finish summer rest feel finally.,851.78,Unknown,Need,Unknown,May,2020,Friday
+75,2020-05-03,Expense,Others,I fast camera inside.,318.05,Unknown,Other,Unknown,May,2020,Sunday
+76,2020-05-03,Expense,Food,Past feeling nature.,1162.57,Unknown,Need,Unknown,May,2020,Sunday
+77,2020-05-05,Expense,Health,Expert involve oil.,123.76,Unknown,Need,Unknown,May,2020,Tuesday
+78,2020-05-06,Expense,Bills,Kid put memory soldier.,123.19,Unknown,Need,Unknown,May,2020,Wednesday
+79,2020-05-06,Expense,Bills,Exist professional.,146.36,Unknown,Need,Unknown,May,2020,Wednesday
+80,2020-05-07,Income,Investment,Stand seem.,3807.0,Unknown,Income,Unknown,May,2020,Thursday
+81,2020-05-11,Income,Investment,Southern challenge animal.,825.0,Unknown,Income,Unknown,May,2020,Monday
+82,2020-05-12,Expense,Shopping,Sure authority increase picture create.,1318.17,Unknown,Want,Unknown,May,2020,Tuesday
+83,2020-05-13,Expense,Health,Hundred challenge reach throughout.,1870.07,Unknown,Need,Unknown,May,2020,Wednesday
+84,2020-05-14,Expense,Health,Despite sound receive let.,484.99,Unknown,Need,Unknown,May,2020,Thursday
+85,2020-05-15,Expense,Travel,True building card.,919.88,Unknown,Need,Unknown,May,2020,Friday
+86,2020-05-16,Expense,Bills,Write other wear through partner.,28.54,Unknown,Need,Unknown,May,2020,Saturday
+87,2020-05-17,Expense,Bills,Store natural today season.,155.79,Unknown,Need,Unknown,May,2020,Sunday
+88,2020-05-19,Expense,Travel,Else easy point she.,273.59,Unknown,Need,Unknown,May,2020,Tuesday
+89,2020-05-20,Expense,Bills,Phone ever back experience.,1759.75,Unknown,Need,Unknown,May,2020,Wednesday
+90,2020-05-21,Expense,Bills,Floor music catch discuss.,881.99,Unknown,Need,Unknown,May,2020,Thursday
+91,2020-05-25,Expense,Travel,Ask imagine my.,1227.24,Unknown,Need,Unknown,May,2020,Monday
+92,2020-05-27,Expense,Food,Deal information.,1339.05,Unknown,Need,Unknown,May,2020,Wednesday
+93,2020-05-28,Expense,Bills,Task she.,1878.47,Unknown,Need,Unknown,May,2020,Thursday
+94,2020-05-29,Income,Investment,Accept goal send table.,1376.0,Unknown,Income,Unknown,May,2020,Friday
+95,2020-05-30,Expense,Bills,Section national owner determine detail.,551.97,Unknown,Need,Unknown,May,2020,Saturday
+96,2020-05-31,Expense,Health,Ahead from quickly identify.,415.16,Unknown,Need,Unknown,May,2020,Sunday
+97,2020-05-31,Expense,Travel,Try wonder move trade.,1015.76,Unknown,Need,Unknown,May,2020,Sunday
+98,2020-06-01,Expense,Food,Base investment.,193.67,Unknown,Need,Unknown,June,2020,Monday
+99,2020-06-02,Expense,Travel,Anyone here deep.,97.73,Unknown,Need,Unknown,June,2020,Tuesday
+100,2020-06-05,Expense,Bills,Seven here sell story.,1277.86,Unknown,Need,Unknown,June,2020,Friday
+101,2020-06-06,Expense,Others,Like see.,1107.84,Unknown,Other,Unknown,June,2020,Saturday
+102,2020-06-07,Expense,Food,Difference attention whatever american.,232.63,Unknown,Need,Unknown,June,2020,Sunday
+103,2020-06-08,Expense,Bills,Current after charge.,1095.72,Unknown,Need,Unknown,June,2020,Monday
+105,2020-06-09,Expense,Bills,Prove nor design record.,865.28,Unknown,Need,Unknown,June,2020,Tuesday
+104,2020-06-09,Income,Income,Paper white responsibility.,826.0,Unknown,Income,Unknown,June,2020,Tuesday
+106,2020-06-10,Expense,Entertainment,Blue agent find.,1367.31,Unknown,Want,Unknown,June,2020,Wednesday
+107,2020-06-10,Expense,Health,Walk cup option store.,1562.43,Unknown,Need,Unknown,June,2020,Wednesday
+108,2020-06-11,Expense,Shopping,Recent feeling.,1947.94,Unknown,Want,Unknown,June,2020,Thursday
+109,2020-06-11,Expense,Entertainment,Site girl into have media.,1730.57,Unknown,Want,Unknown,June,2020,Thursday
+110,2020-06-12,Expense,Bills,Support state.,1764.02,Unknown,Need,Unknown,June,2020,Friday
+111,2020-06-14,Income,Income,Whether player stock religious.,3872.0,Unknown,Income,Unknown,June,2020,Sunday
+112,2020-06-15,Expense,Entertainment,Safe whole establish.,540.94,Unknown,Want,Unknown,June,2020,Monday
+114,2020-06-18,Expense,Bills,Let stay or focus.,771.26,Unknown,Need,Unknown,June,2020,Thursday
+113,2020-06-18,Income,Income,Everything late.,2322.0,Unknown,Income,Unknown,June,2020,Thursday
+115,2020-06-18,Income,Income,Particular her agreement surface consider.,3364.0,Unknown,Income,Unknown,June,2020,Thursday
+117,2020-06-19,Expense,Entertainment,Something future they red.,453.62,Unknown,Want,Unknown,June,2020,Friday
+116,2020-06-19,Expense,Shopping,Act way beat result major.,663.24,Unknown,Want,Unknown,June,2020,Friday
+118,2020-06-21,Expense,Travel,Position make society behavior.,708.78,Unknown,Need,Unknown,June,2020,Sunday
+119,2020-06-21,Expense,Health,Reality fill ok list.,1879.08,Unknown,Need,Unknown,June,2020,Sunday
+120,2020-06-22,Income,Income,International second former reflect.,1962.0,Unknown,Income,Unknown,June,2020,Monday
+121,2020-06-22,Expense,Travel,Edge building court.,86.13,Unknown,Need,Unknown,June,2020,Monday
+122,2020-06-24,Expense,Health,Week real course school everybody.,1459.8,Unknown,Need,Unknown,June,2020,Wednesday
+123,2020-06-30,Expense,Bills,Executive beyond create dinner conference.,776.54,Unknown,Need,Unknown,June,2020,Tuesday
+124,2020-06-30,Expense,Travel,Call animal approach factor want.,98.33,Unknown,Need,Unknown,June,2020,Tuesday
+125,2020-07-02,Expense,Entertainment,Their off.,734.8,Unknown,Want,Unknown,July,2020,Thursday
+126,2020-07-03,Income,Income,Key continue anything wait.,3071.0,Unknown,Income,Unknown,July,2020,Friday
+127,2020-07-04,Expense,Bills,State husband.,1442.31,Unknown,Need,Unknown,July,2020,Saturday
+128,2020-07-05,Expense,Travel,Picture approach chance none fight.,1337.12,Unknown,Need,Unknown,July,2020,Sunday
+129,2020-07-06,Expense,Travel,Newspaper indicate other.,1113.28,Unknown,Need,Unknown,July,2020,Monday
+130,2020-07-06,Income,Income,Herself training father open investment.,1925.0,Unknown,Income,Unknown,July,2020,Monday
+131,2020-07-08,Expense,Travel,Art whether between several personal.,818.09,Unknown,Need,Unknown,July,2020,Wednesday
+132,2020-07-11,Expense,Travel,Church community.,580.96,Unknown,Need,Unknown,July,2020,Saturday
+133,2020-07-12,Expense,Health,Able late order.,935.33,Unknown,Need,Unknown,July,2020,Sunday
+134,2020-07-12,Expense,Entertainment,Discuss religious.,1027.24,Unknown,Want,Unknown,July,2020,Sunday
+135,2020-07-13,Expense,Bills,Reach under.,1321.11,Unknown,Need,Unknown,July,2020,Monday
+136,2020-07-17,Expense,Health,Boy different chance enter.,195.84,Unknown,Need,Unknown,July,2020,Friday
+137,2020-07-20,Expense,Entertainment,Arrive society.,1348.86,Unknown,Want,Unknown,July,2020,Monday
+139,2020-07-21,Expense,Entertainment,Keep light fight.,303.23,Unknown,Want,Unknown,July,2020,Tuesday
+138,2020-07-21,Income,Income,Matter management ball.,1096.0,Unknown,Income,Unknown,July,2020,Tuesday
+142,2020-07-22,Expense,Entertainment,Same page ago director.,1439.51,Unknown,Want,Unknown,July,2020,Wednesday
+141,2020-07-22,Expense,Shopping,Week yourself public especially american.,495.53,Unknown,Want,Unknown,July,2020,Wednesday
+140,2020-07-22,Expense,Food,Million kind everything young.,1786.39,Unknown,Need,Unknown,July,2020,Wednesday
+143,2020-07-23,Expense,Bills,Why like impact fly.,1559.06,Unknown,Need,Unknown,July,2020,Thursday
+144,2020-07-24,Expense,Others,Form really explain.,109.93,Unknown,Other,Unknown,July,2020,Friday
+145,2020-07-28,Expense,Bills,Already because education break significant.,918.36,Unknown,Need,Unknown,July,2020,Tuesday
+146,2020-07-28,Expense,Health,Price my.,1900.58,Unknown,Need,Unknown,July,2020,Tuesday
+147,2020-07-29,Expense,Shopping,Could gun.,1662.83,Unknown,Want,Unknown,July,2020,Wednesday
+148,2020-07-30,Expense,Bills,Kind appear environment capital explain.,1489.87,Unknown,Need,Unknown,July,2020,Thursday
+149,2020-07-31,Expense,Travel,Ahead picture son.,1506.04,Unknown,Need,Unknown,July,2020,Friday
+151,2020-08-01,Income,Income,Relate indeed lot line lead.,2420.0,Unknown,Income,Unknown,August,2020,Saturday
+152,2020-08-01,Expense,Travel,Nearly need behavior.,1533.97,Unknown,Need,Unknown,August,2020,Saturday
+150,2020-08-01,Expense,Entertainment,Water positive child usually.,556.45,Unknown,Want,Unknown,August,2020,Saturday
+153,2020-08-02,Expense,Health,Course out second carry.,1787.12,Unknown,Need,Unknown,August,2020,Sunday
+154,2020-08-03,Income,Investment,Significant take future.,2394.0,Unknown,Income,Unknown,August,2020,Monday
+155,2020-08-04,Expense,Bills,Star executive fear.,1415.77,Unknown,Need,Unknown,August,2020,Tuesday
+156,2020-08-04,Income,Income,Your majority chance mrs generation.,3210.0,Unknown,Income,Unknown,August,2020,Tuesday
+157,2020-08-04,Expense,Shopping,Help usually thank wonder draw.,133.91,Unknown,Want,Unknown,August,2020,Tuesday
+158,2020-08-05,Expense,Shopping,Task improve fish.,1810.63,Unknown,Want,Unknown,August,2020,Wednesday
+159,2020-08-05,Expense,Food,History professional star wonder.,1714.9,Unknown,Need,Unknown,August,2020,Wednesday
+160,2020-08-06,Expense,Shopping,Call whole.,959.19,Unknown,Want,Unknown,August,2020,Thursday
+162,2020-08-08,Expense,Travel,Them key.,1509.42,Unknown,Need,Unknown,August,2020,Saturday
+161,2020-08-08,Expense,Shopping,Address century that wide.,1081.06,Unknown,Want,Unknown,August,2020,Saturday
+163,2020-08-09,Expense,Entertainment,Sit enter perhaps however.,981.58,Unknown,Want,Unknown,August,2020,Sunday
+164,2020-08-13,Expense,Others,System teacher here first.,67.76,Unknown,Other,Unknown,August,2020,Thursday
+165,2020-08-14,Expense,Shopping,Along attention piece tv young.,1451.12,Unknown,Want,Unknown,August,2020,Friday
+166,2020-08-16,Expense,Bills,Within set region beyond.,1961.64,Unknown,Need,Unknown,August,2020,Sunday
+167,2020-08-17,Expense,Shopping,Tough animal someone.,1187.87,Unknown,Want,Unknown,August,2020,Monday
+168,2020-08-18,Expense,Bills,Hear certainly most not.,1289.07,Unknown,Need,Unknown,August,2020,Tuesday
+169,2020-08-19,Income,Income,Company participant him.,1988.0,Unknown,Income,Unknown,August,2020,Wednesday
+170,2020-08-20,Income,Income,Tree central leave effect.,3181.0,Unknown,Income,Unknown,August,2020,Thursday
+171,2020-08-21,Expense,Health,Together let.,681.63,Unknown,Need,Unknown,August,2020,Friday
+172,2020-08-21,Expense,Travel,Citizen kid generation onto police.,1506.5,Unknown,Need,Unknown,August,2020,Friday
+173,2020-08-22,Expense,Travel,Lead few yourself.,1671.47,Unknown,Need,Unknown,August,2020,Saturday
+174,2020-08-22,Expense,Food,Down occur.,1999.82,Unknown,Need,Unknown,August,2020,Saturday
+175,2020-08-26,Expense,Bills,Yeah far within.,1564.65,Unknown,Need,Unknown,August,2020,Wednesday
+177,2020-08-27,Expense,Food,Account ten sing.,1899.73,Unknown,Need,Unknown,August,2020,Thursday
+176,2020-08-27,Income,Investment,Seat strategy total simply discover.,1748.0,Unknown,Income,Unknown,August,2020,Thursday
+178,2020-08-29,Expense,Others,Pm per question.,1342.22,Unknown,Other,Unknown,August,2020,Saturday
+179,2020-08-30,Expense,Entertainment,Best physical always small almost.,935.42,Unknown,Want,Unknown,August,2020,Sunday
+180,2020-08-31,Expense,Health,Bed far section.,343.9,Unknown,Need,Unknown,August,2020,Monday
+181,2020-09-01,Expense,Bills,Car much will.,1557.81,Unknown,Need,Unknown,September,2020,Tuesday
+182,2020-09-05,Income,Income,Tree store either station.,1385.0,Unknown,Income,Unknown,September,2020,Saturday
+183,2020-09-05,Expense,Travel,Second full boy.,1155.84,Unknown,Need,Unknown,September,2020,Saturday
+184,2020-09-06,Expense,Shopping,Senior difficult put.,799.34,Unknown,Want,Unknown,September,2020,Sunday
+185,2020-09-07,Expense,Bills,Hand so add mr lawyer.,1188.27,Unknown,Need,Unknown,September,2020,Monday
+186,2020-09-08,Expense,Entertainment,Herself police he push likely.,212.78,Unknown,Want,Unknown,September,2020,Tuesday
+189,2020-09-11,Expense,Food,Bring animal also you.,700.94,Unknown,Need,Unknown,September,2020,Friday
+187,2020-09-11,Expense,Health,Doctor mr.,147.22,Unknown,Need,Unknown,September,2020,Friday
+188,2020-09-11,Expense,Bills,Trip determine as statement.,1594.49,Unknown,Need,Unknown,September,2020,Friday
+190,2020-09-16,Expense,Food,He we recent music.,1700.66,Unknown,Need,Unknown,September,2020,Wednesday
+191,2020-09-17,Expense,Bills,Those pressure street.,872.71,Unknown,Need,Unknown,September,2020,Thursday
+192,2020-09-17,Expense,Others,Allow have kitchen.,1417.54,Unknown,Other,Unknown,September,2020,Thursday
+193,2020-09-18,Expense,Travel,Between rate name within.,1235.67,Unknown,Need,Unknown,September,2020,Friday
+194,2020-09-18,Expense,Others,Huge couple.,935.1,Unknown,Other,Unknown,September,2020,Friday
+195,2020-09-22,Expense,Travel,Begin deep police wife.,651.39,Unknown,Need,Unknown,September,2020,Tuesday
+196,2020-09-22,Expense,Bills,During call north attention.,565.07,Unknown,Need,Unknown,September,2020,Tuesday
+197,2020-09-22,Expense,Others,Only spend do.,1144.0,Unknown,Other,Unknown,September,2020,Tuesday
+199,2020-09-23,Expense,Health,Able teach certain candidate economy.,67.11,Unknown,Need,Unknown,September,2020,Wednesday
+198,2020-09-23,Expense,Bills,Produce ago.,980.22,Unknown,Need,Unknown,September,2020,Wednesday
+200,2020-09-25,Expense,Travel,So draw food company.,687.27,Unknown,Need,Unknown,September,2020,Friday
