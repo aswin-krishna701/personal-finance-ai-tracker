@@ -9,7 +9,7 @@ The system supports both CSV upload and manual finance planning. Users can uploa
 ## Live Demo
 
 **Dashboard:** Add your deployed Streamlit link here
-**Landing Website:** Add GitHub Pages / website link here if deployed
+**Landing Website:** Add GitHub Pages / https://aswin-krishna701.github.io/personal-finance-ai-tracker/
 
 ---
 
