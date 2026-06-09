@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>FinanceAI — Personal Finance AI Tracker</title>
+<meta name="description" content="Upload your transactions or enter monthly expenses to get instant insights on savings, spending habits, and financial health." />
+<link rel="stylesheet" href="style.css" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<!-- Navbar -->
+<header class="navbar" id="navbar">
+  <div class="container nav-inner">
+    <a href="#home" class="logo">
+      <span class="logo-mark">₹</span>
+      <span>FinanceAI</span>
+    </a>
+    <nav class="nav-links" id="navLinks">
+      <a href="#home">Home</a>
+      <a href="#features">Features</a>
+      <a href="#how">How It Works</a>
+      <a href="#upload">Upload</a>
+      <a href="#planner">Planner</a>
+      <a href="#insights">Insights</a>
+      <a href="#faq">FAQ</a>
+      <a href="personal-finance-ai-tracker-mxyx4rjhxywy7y8bdq5u89.streamlit.app" target="_blank" rel="noopener" class="btn btn-primary nav-cta">Open Dashboard</a>
+    </nav>
+    <button class="menu-toggle" id="menuToggle" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<!-- Hero -->
+<section class="hero" id="home">
+  <div class="hero-bg"></div>
+  <div class="container hero-grid">
+    <div class="hero-text reveal">
+      <span class="eyebrow">✨ AI-powered personal finance</span>
+      <h1>Understand Your Money.<br/><span class="gradient-text">Improve Your Future.</span></h1>
+      <p class="lead">
+        Upload your transactions or enter monthly expenses manually to get instant insights on savings, spending habits, financial health, and budget improvement.
+      </p>
+      <div class="hero-buttons">
+        <a href="personal-finance-ai-tracker-mxyx4rjhxywy7y8bdq5u89.streamlit.app" target="_blank" rel="noopener" class="btn btn-primary">Open Dashboard →</a>
+        <a href="#features" class="btn btn-ghost">Explore Features</a>
+      </div>
+      <div class="hero-stats">
+        <div><strong data-counter="98">0</strong><span>% Accuracy</span></div>
+        <div><strong data-counter="10">0</strong><span>+ Insights</span></div>
+        <div><strong data-counter="2">0</strong><span> Modes</span></div>
+      </div>
+    </div>
+
+    <!-- Hero Visual Mockup -->
+    <div class="hero-visual reveal">
+      <div class="dash-card floating">
+        <div class="dash-header">
+          <div class="dots"><span></span><span></span><span></span></div>
+          <span class="dash-title">Finance Dashboard</span>
+        </div>
+        <div class="kpi-row">
+          <div class="kpi kpi-income">
+            <span>Income</span>
+            <strong>₹45,000</strong>
+            <em>+12%</em>
+          </div>
+          <div class="kpi kpi-expense">
+            <span>Expense</span>
+            <strong>₹27,500</strong>
+            <em>-4%</em>
+          </div>
+          <div class="kpi kpi-savings">
+            <span>Savings</span>
+            <strong>₹17,500</strong>
+            <em>+22%</em>
+          </div>
+        </div>
+        <div class="dash-row">
+          <div class="health-card">
+            <div class="health-ring">
+              <svg viewBox="0 0 80 80"><circle cx="40" cy="40" r="34" class="ring-bg"/><circle cx="40" cy="40" r="34" class="ring-fg"/></svg>
+              <div class="health-score"><strong>90</strong><span>Score</span></div>
+            </div>
+            <p>Excellent financial health</p>
+          </div>
+          <div class="chart-card">
+            <span class="chart-label">Categories</span>
+            <div class="bars">
+              <div class="bar" style="--h:80%"><span>Food</span></div>
+              <div class="bar" style="--h:55%"><span>Bills</span></div>
+              <div class="bar" style="--h:65%"><span>Shop</span></div>
+              <div class="bar" style="--h:35%"><span>Travel</span></div>
+              <div class="bar" style="--h:25%"><span>Other</span></div>
+            </div>
+          </div>
+        </div>
+        <div class="trend-card">
+          <span class="chart-label">Income vs Expense Trend</span>
+          <svg viewBox="0 0 300 80" preserveAspectRatio="none" class="trend-svg">
+            <polyline points="0,60 50,40 100,45 150,25 200,30 250,15 300,20" class="trend-income"/>
+            <polyline points="0,70 50,55 100,60 150,50 200,55 250,45 300,40" class="trend-expense"/>
+          </svg>
+        </div>
+        <div class="suggestion-card">
+          💡 Reduce shopping by 15% to hit your savings goal.
+        </div>
+      </div>
+      <div class="blob blob-1"></div>
+      <div class="blob blob-2"></div>
+    </div>
+  </div>
+</section>
+
+<!-- Problem -->
+<section class="section" id="problem">
+  <div class="container two-col">
+    <div class="reveal">
+      <span class="section-tag">The Problem</span>
+      <h2>You know your income.<br/>But where does it really go?</h2>
+    </div>
+    <p class="muted reveal">
+      Most people track expenses manually or do not clearly understand where their money goes. They may know their income, but not their spending pattern, savings rate, or weak budget areas. Without clarity, money slips away on unnoticed categories — and savings goals stay out of reach.
+    </p>
+  </div>
+</section>
+
+<!-- Solution -->
+<section class="section section-alt" id="solution">
+  <div class="container two-col">
+    <div class="reveal">
+      <span class="section-tag">The Solution</span>
+      <h2>Clear insights from your real finance data.</h2>
+    </div>
+    <p class="muted reveal">
+      FinanceAI analyzes your finance data and turns it into clear insights. It helps you understand spending, identify high expense categories, calculate savings, and get practical, personalized suggestions to improve your budget.
+    </p>
+  </div>
+</section>
+
+<!-- Main Modes -->
+<section class="section" id="modes">
+  <div class="container">
+    <div class="section-head reveal">
+      <span class="section-tag">Two Ways To Start</span>
+      <h2>Choose how you want to analyze your money</h2>
+    </div>
+    <div class="modes-grid">
+      <div class="mode-card reveal">
+        <div class="mode-icon">📊</div>
+        <h3>Analyze My Finance</h3>
+        <p>Upload a transaction CSV and instantly get income, expense, savings, category, monthly trend, and financial health insights.</p>
+        <a href="#upload" class="link-arrow">Upload CSV →</a>
+      </div>
+      <div class="mode-card highlight reveal">
+        <div class="mode-icon">⚡</div>
+        <h3>Quick Finance Planner</h3>
+        <p>Enter monthly income and expenses manually to get instant savings analysis, health score, and budget suggestions.</p>
+        <a href="#planner" class="link-arrow">Open Planner →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Features -->
+<section class="section section-alt" id="features">
+  <div class="container">
+    <div class="section-head reveal">
+      <span class="section-tag">Features</span>
+      <h2>Everything you need for smarter money decisions</h2>
+    </div>
+    <div class="features-grid">
+      <div class="feature-card reveal"><div class="f-icon">📁</div><h4>CSV Upload & Cleaning</h4><p>Drop your transactions and let FinanceAI clean and normalize them automatically.</p></div>
+      <div class="feature-card reveal"><div class="f-icon">✍️</div><h4>Manual Entry</h4><p>No CSV? Type in monthly income and expenses to get instant analysis.</p></div>
+      <div class="feature-card reveal"><div class="f-icon">📈</div><h4>Income & Expense Analysis</h4><p>Detailed breakdowns of where your money comes in and goes out.</p></div>
+      <div class="feature-card reveal"><div class="f-icon">💰</div><h4>Savings Rate</h4><p>Know exactly what percentage of your income you actually save.</p></div>
+      <div class="feature-card reveal"><div class="f-icon">🍱</div><h4>Category Spending</h4><p>See which categories eat the largest part of your monthly budget.</p></div>
+      <div class="feature-card reveal"><div class="f-icon">📆</div><h4>Monthly Trends</h4><p>Track how income and expenses evolve across months.</p></div>
+      <div class="feature-card reveal"><div class="f-icon">❤️</div><h4>Health Score</h4><p>A simple 0–100 score that reflects your overall financial fitness.</p></div>
+      <div class="feature-card reveal"><div class="f-icon">💡</div><h4>Smart Suggestions</h4><p>Personalized tips to reduce overspending and grow savings.</p></div>
+      <div class="feature-card reveal"><div class="f-icon">⬇️</div><h4>Cleaned CSV Download</h4><p>Export your cleaned transactions for further use.</p></div>
+      <div class="feature-card reveal"><div class="f-icon">🖥️</div><h4>Interactive Dashboard</h4><p>A polished UI to explore your finances with charts and KPIs.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- How It Works -->
+<section class="section" id="how">
+  <div class="container">
+    <div class="section-head reveal">
+      <span class="section-tag">How It Works</span>
+      <h2>From raw data to clear financial insights</h2>
+    </div>
+    <div class="steps">
+      <div class="step reveal"><div class="step-num">1</div><h4>Choose input method</h4><p>Upload CSV or use the manual planner.</p></div>
+      <div class="step reveal"><div class="step-num">2</div><h4>Enter finance data</h4><p>Provide income and expense details.</p></div>
+      <div class="step reveal"><div class="step-num">3</div><h4>Analyze spending</h4><p>The system calculates income, expenses, savings, top category, and health score.</p></div>
+      <div class="step reveal"><div class="step-num">4</div><h4>View insights</h4><p>See charts, summary, suggestions, and financial status.</p></div>
+      <div class="step reveal"><div class="step-num">5</div><h4>Improve budget</h4><p>Use recommendations to reduce overspending and improve savings.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- Dashboard Preview -->
+<section class="section section-alt" id="preview">
+  <div class="container">
+    <div class="section-head reveal">
+      <span class="section-tag">Dashboard Preview</span>
+      <h2>A real app interface, built for clarity</h2>
+    </div>
+    <div class="preview-wrap reveal">
+      <div class="preview-shell">
+        <div class="preview-side">
+          <div class="side-logo"><span class="logo-mark">₹</span> FinanceAI</div>
+          <ul>
+            <li class="active">📊 Overview</li>
+            <li>📁 Upload CSV</li>
+            <li>✍️ Manual Planner</li>
+            <li>💡 Insights</li>
+            <li>⚙️ Settings</li>
+          </ul>
+          <div class="planner-mini">
+            <span>Quick Planner</span>
+            <label>Income <input value="₹45,000" readonly></label>
+            <label>Food <input value="₹6,000" readonly></label>
+            <label>Bills <input value="₹9,000" readonly></label>
+            <button class="btn btn-primary btn-sm">Calculate</button>
+          </div>
+        </div>
+        <div class="preview-main">
+          <div class="kpi-grid">
+            <div class="kpi-tile"><span>Total Income</span><strong>₹45,000</strong></div>
+            <div class="kpi-tile"><span>Total Expenses</span><strong>₹27,500</strong></div>
+            <div class="kpi-tile"><span>Total Savings</span><strong>₹17,500</strong></div>
+            <div class="kpi-tile"><span>Savings Rate</span><strong>38.8%</strong></div>
+            <div class="kpi-tile"><span>Health Score</span><strong>90/100</strong></div>
+            <div class="kpi-tile"><span>Top Category</span><strong>Bills</strong></div>
+          </div>
+          <div class="charts-grid">
+            <div class="chart-box">
+              <span class="chart-label">Spending by Category</span>
+              <div class="pie">
+                <div class="pie-circle"></div>
+                <ul class="legend">
+                  <li><i style="background:#6366f1"></i>Bills 33%</li>
+                  <li><i style="background:#10b981"></i>Food 22%</li>
+                  <li><i style="background:#f59e0b"></i>Shop 18%</li>
+                  <li><i style="background:#ef4444"></i>Travel 11%</li>
+                  <li><i style="background:#8b5cf6"></i>Other 16%</li>
+                </ul>
+              </div>
+            </div>
+            <div class="chart-box">
+              <span class="chart-label">Monthly Trend</span>
+              <svg viewBox="0 0 300 120" preserveAspectRatio="none" class="trend-svg big">
+                <polyline points="0,90 50,70 100,75 150,45 200,55 250,30 300,35" class="trend-income"/>
+                <polyline points="0,100 50,85 100,90 150,75 200,80 250,65 300,60" class="trend-expense"/>
+              </svg>
+              <div class="legend-row"><span><i style="background:#10b981"></i>Income</span><span><i style="background:#ef4444"></i>Expense</span></div>
+            </div>
+          </div>
+          <div class="suggest-panel">
+            <h4>💡 Suggestions</h4>
+            <ul>
+              <li>Your savings rate is excellent — keep it consistent.</li>
+              <li>Bills are your top category — review subscriptions.</li>
+              <li>Try shifting 5% from shopping into investments.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CSV Upload -->
+<section class="section" id="upload">
+  <div class="container two-col-grid">
+    <div class="reveal">
+      <span class="section-tag">CSV Upload</span>
+      <h2>Bring your transactions in seconds</h2>
+      <p class="muted">Upload a standard CSV of your transactions. FinanceAI cleans, categorizes, and turns them into a complete financial picture.</p>
+      <p><strong>Required columns:</strong> <code>date, description, amount, type, category</code></p>
+      <p><strong>Optional columns:</strong> <code>payment_method, merchant, notes</code></p>
+      <a href="personal-finance-ai-tracker-mxyx4rjhxywy7y8bdq5u89.streamlit.app" target="_blank" rel="noopener" class="btn btn-primary">Open CSV Analyzer →</a>
+    </div>
+    <div class="csv-card reveal">
+      <div class="csv-head"><span>transactions.csv</span><span class="csv-pill">CSV</span></div>
+      <table class="csv-table">
+        <thead><tr><th>date</th><th>description</th><th>amount</th><th>type</th><th>category</th></tr></thead>
+        <tbody>
+          <tr><td>2024-12-01</td><td>Salary credited</td><td>45000</td><td>Income</td><td>Salary</td></tr>
+          <tr><td>2024-12-02</td><td>Food order</td><td>350</td><td>Expense</td><td>Food</td></tr>
+          <tr><td>2024-12-03</td><td>Bus ticket</td><td>80</td><td>Expense</td><td>Travel</td></tr>
+          <tr><td>2024-12-04</td><td>Electricity bill</td><td>1200</td><td>Expense</td><td>Bills</td></tr>
+          <tr><td>2024-12-05</td><td>Movie night</td><td>500</td><td>Expense</td><td>Entertainment</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<!-- Manual Planner -->
+<section class="section section-alt" id="planner">
+  <div class="container two-col-grid reverse">
+    <div class="planner-card reveal">
+      <h4>Manual Planner</h4>
+      <div class="planner-form">
+        <label>Monthly Income <input value="₹45,000" readonly></label>
+        <div class="grid-2">
+          <label>Food <input value="₹6,000" readonly></label>
+          <label>Travel <input value="₹3,000" readonly></label>
+          <label>Shopping <input value="₹4,000" readonly></label>
+          <label>Bills / Rent <input value="₹9,000" readonly></label>
+          <label>Entertainment <input value="₹1,500" readonly></label>
+          <label>Subscriptions <input value="₹800" readonly></label>
+          <label>Health <input value="₹1,200" readonly></label>
+          <label>Education <input value="₹1,000" readonly></label>
+        </div>
+        <label>Target Savings Rate <input value="20%" readonly></label>
+      </div>
+      <div class="planner-out">
+        <div><span>Savings</span><strong>₹17,500</strong></div>
+        <div><span>Savings Rate</span><strong>38.8%</strong></div>
+        <div><span>Health Score</span><strong>90/100</strong></div>
+        <div><span>Status</span><strong class="status-ok">Excellent</strong></div>
+      </div>
+    </div>
+    <div class="reveal">
+      <span class="section-tag">Quick Planner</span>
+      <h2>No CSV? Just type and analyze</h2>
+      <p class="muted">Enter your monthly income and expenses across common categories. Get an instant savings calculation, a financial health score, and personalized budget suggestions — no data file required.</p>
+      <a href="personal-finance-ai-tracker-mxyx4rjhxywy7y8bdq5u89.streamlit.app" target="_blank" rel="noopener" class="btn btn-primary">Open Planner →</a>
+    </div>
+  </div>
+</section>
+
+<!-- Insights -->
+<section class="section" id="insights">
+  <div class="container">
+    <div class="section-head reveal">
+      <span class="section-tag">Insights You Get</span>
+      <h2>Decisions backed by your real numbers</h2>
+    </div>
+    <div class="insights-grid">
+      <div class="insight reveal">📍 Where most of your money is spent</div>
+      <div class="insight reveal">⚠️ Whether expenses are higher than income</div>
+      <div class="insight reveal">✅ Whether your savings rate is healthy</div>
+      <div class="insight reveal">🎯 Which category needs more control</div>
+      <div class="insight reveal">💼 How much more you should save</div>
+      <div class="insight reveal">🛠️ Practical suggestions for improvement</div>
+    </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section class="section section-alt" id="faq">
+  <div class="container faq-wrap">
+    <div class="section-head reveal">
+      <span class="section-tag">FAQ</span>
+      <h2>Questions, answered</h2>
+    </div>
+    <div class="faq">
+      <div class="faq-item"><button class="faq-q">What does this app do?<span>+</span></button><div class="faq-a"><p>FinanceAI analyzes your income, expenses, and savings — through a CSV upload or manual entry — and gives you instant insights, a health score, and personalized suggestions.</p></div></div>
+      <div class="faq-item"><button class="faq-q">Can I use it without a CSV?<span>+</span></button><div class="faq-a"><p>Yes. The Quick Finance Planner lets you type monthly income and expenses to get a full analysis instantly.</p></div></div>
+      <div class="faq-item"><button class="faq-q">What columns are needed for CSV upload?<span>+</span></button><div class="faq-a"><p>Required: date, description, amount, type, category. Optional: payment_method, merchant, notes.</p></div></div>
+      <div class="faq-item"><button class="faq-q">Does it store my data permanently?<span>+</span></button><div class="faq-a"><p>No. Analysis runs in your session, and your financial data is not stored permanently.</p></div></div>
+      <div class="faq-item"><button class="faq-q">What is the financial health score?<span>+</span></button><div class="faq-a"><p>A 0–100 score that summarizes your savings rate, expense balance, and category distribution.</p></div></div>
+      <div class="faq-item"><button class="faq-q">Can this dashboard be deployed online?<span>+</span></button><div class="faq-a"><p>Yes. The dashboard can be deployed to any cloud platform that supports Python web apps.</p></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="section cta-section">
+  <div class="container cta reveal">
+    <h2>Ready to Understand Your Finances?</h2>
+    <p>Open the dashboard, upload your CSV or enter your monthly expenses, and get instant finance insights.</p>
+    <a href="personal-finance-ai-tracker-mxyx4rjhxywy7y8bdq5u89.streamlit.app" target="_blank" rel="noopener" class="btn btn-primary btn-lg">Open Dashboard →</a>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer class="footer">
+  <div class="container footer-grid">
+    <div>
+      <a href="#home" class="logo"><span class="logo-mark">₹</span><span>FinanceAI</span></a>
+      <p class="footer-tag">Personal Finance AI Tracker</p>
+      <p class="muted small">A user-ready finance assistant for income, expense, savings, and budget insights.</p>
+    </div>
+    <div>
+      <h5>Product</h5>
+      <a href="#features">Features</a>
+      <a href="#how">How It Works</a>
+      <a href="#upload">CSV Upload</a>
+      <a href="#planner">Manual Planner</a>
+    </div>
+    <div>
+      <h5>Resources</h5>
+      <a href="#faq">FAQ</a>
+      <a href="personal-finance-ai-tracker-mxyx4rjhxywy7y8bdq5u89.streamlit.app" target="_blank" rel="noopener">Open Dashboard</a>
+    </div>
+  </div>
+  <div class="container copyright">© 2026 FinanceAI · Personal Finance AI Tracker</div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
